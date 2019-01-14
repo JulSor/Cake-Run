@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ice
+  - Normal
+  - PickUp
+  - PoisonPickUp
+  - Chest
+  - PortRed1
+  - PortRed2
+  - PortBlue1
+  - PortBlue2
+  - Strawberry
+  - MovingPf
+  - Off
+  - OneWay
+  - WallColored
+  - MovingPfLeft
+  - CollPlat
+  - Coin
+  - PlatTrigger
+  - PlatTrigger2
+  - PlatTrigger3
+  - PlatEnd
+  - PlatStart
+  - Platform
+  - Enemy
+  - IceCream
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 1
+  - Ground
+  - normal
+  - IceCream
+  - HalfIceCream
+  - Coin
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - bg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
